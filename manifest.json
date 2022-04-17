@@ -1,0 +1,118 @@
+{
+    "name" : "The Coffee Shop",
+    "short_name" : "CoffeeShop",
+    "start_url" : "/index.html",
+    "display" : "standalone",
+    "background_color" : "#FFE9D2",
+    "theme_color" : "#FFE1C4",
+    "orientation": "portrait-primary",
+    "icons":[
+        {
+            "src" :"/images/about.jpg",
+            "sizes":"85x85",
+            "type": "images/jpg"
+        },
+        {
+            "src" :"/images/cart-item-1.png",
+            "sizes":"192x192",
+            "type": "images/png"
+
+        },
+        {
+            "src" :"/images/cart-item-2.png",
+            "sizes":"72x72",
+            "type": "images/png"
+        },
+        {
+            "src" :"/images/cart-item-3.png",
+            "sizes":"72x72",
+            "type": "images/png"
+        },
+        {
+            "src" :"/images/cart-item-4.png",
+            "sizes":"72x72",
+            "type": "images/png",
+            "purpose":"any"
+        },
+        {
+            "src" :"/images/home-img.png",
+            "sizes":"512X512",
+            "type": "images/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src" :"/images/logo.jpg",
+            "sizes":"82x82",
+            "type": "images/jpg"
+        },
+        {
+            "src" :"/images/menu-1.png",
+            "sizes":"72x72",
+            "type": "images/png"
+        },
+        {
+            "src" :"/images/menu-2.png",
+            "sizes":"72x72",
+            "type": "images/png"
+        },
+        {
+            "src" :"/images/menu-3.png",
+            "sizes":"72x72",
+            "type": "images/png"
+        },
+        {
+            "src" :"/images/menu-4.png",
+            "sizes":"72x72",
+            "type": "images/png"
+        },
+        {
+            "src" :"/images/menu-5.png",
+            "sizes":"72x72",
+            "type": "images/png"
+        },
+        {
+            "src" :"/images/menu-6.png",
+            "sizes":"72x72",
+            "type": "images/png"
+        },
+        {
+            "src" :"/images/pic-1.png",
+            "sizes":"80x80",
+            "type": "images/png"
+        },
+        {
+            "src" :"/images/pic-2.png",
+            "sizes":"80x80",
+            "type": "images/png"
+        },
+        {
+            "src" :"/images/pic-3.png",
+            "sizes":"80x80",
+            "type": "images/png"
+        },
+        {
+            "src" :"/images/product-1.png",
+            "sizes":"72x72",
+            "type": "images/png"
+        },
+        {
+            "src" :"/images/product-2.png",
+            "sizes":"72x72",
+            "type": "images/png"
+        },
+        {
+            "src" :"/images/product-3.png",
+            "sizes":"72x72",
+            "type": "images/png"
+        },
+        {
+            "src" :"/images/quote-img.png",
+            "sizes":"30x30",
+            "type":"images/png"
+        }
+    
+        
+
+    ]
+
+}
